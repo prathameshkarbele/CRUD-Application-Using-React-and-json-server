@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "shiv",
+      "email": "shiv@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "rakesh",
+      "email": "rakesh@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "visahl",
+      "email": "visahl@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "vipul",
+      "email": "vipul@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "viraj",
+      "email": "viraj@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "sham",
+      "email": "sham@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "mau",
+      "email": "mau@gmail.com"
+    },
+    {
+      "name": "prathamesh karble",
+      "email": "eee@gmail.com",
+      "id": 11
+    }
+  ]
+}
